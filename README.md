@@ -10,7 +10,8 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved. \
+This library is licensed under the MIT-0 License. See the LICENSE file. \
 SPDX-License-Identifier: MIT-0
-This library is licensed under the MIT-0 License. See the LICENSE file.
+
 
